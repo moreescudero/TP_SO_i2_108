@@ -2,3 +2,26 @@ Integrantes:
 Avallone, Joaquin 
 Escudero, Morena
 Vallejos Lugo, Ezequiel
+
+
+A- git remote add upstream URL_DEL_REPOSITORIO_ORIGINAL  git fetch upstream git checkout main git merge upstream/main
+B- no
+C- no
+D- si
+E- 
+punto 1:
+git clone https://github.com/moreescudero/TP_SO_i2_108.git,
+echo "" > /ruta/fork.txt,
+git add .
+git commit -m "BETA archivos sin modificacion"
+git push
+punto 2:
+echo "" > /ruta/NuevoDato.txt
+git add .
+git commit -m "BETA agrego NuevoDato.txt"
+git push
+punto 3:
+echo "Integrantes:\nAvallone, Joaquin\nEscudero, Morena\nVallejos Lugo, Ezequiel" > /ruta/respuesta_I2_Equipo108.txt
+git add .
+git commit -m "BETA agrego archivo para respuestas"
+git push
