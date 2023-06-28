@@ -2,14 +2,3 @@ Integrantes:
 Avallone, Joaquin 
 Escudero, Morena
 Vallejos Lugo, Ezequiel
-
-ALFA respuesta e)
-git clone https://github.com/moreescudero/TP_SO_i2_108.git
-
-en cmd:
-ipconfig
-time
-
-git add .
-git commit -m "ALFA datos en el fork.txt"
-git push
